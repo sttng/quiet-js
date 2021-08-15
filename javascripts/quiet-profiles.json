@@ -526,7 +526,7 @@
       }
     },
     "audible-7k-channel-X": {
-      "mod_scheme": "arb256opt",
+      "mod_scheme": "arb64opt",
       "checksum_scheme": "crc32",
       "inner_fec_scheme": "v29",
       "outer_fec_scheme": "rs8",
